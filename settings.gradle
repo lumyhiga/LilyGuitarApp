@@ -1,0 +1,2 @@
+rootProject.name='LilyGuitar'
+include ':app'
